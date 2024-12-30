@@ -30,4 +30,6 @@ I'm a Flutter developer since May 2024 and a BSc Computer Science graduate, pass
 
 <a href="http://www.github.com/jasnimk"><img src="https://github-readme-stats.vercel.app/api?username=jasnimk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jasnimk's GitHub stats" /></a>
 
+<a href="http://www.github.com/jasnimk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jasnimk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/jasnimk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasnimk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
